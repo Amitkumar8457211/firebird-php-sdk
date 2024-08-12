@@ -1,6 +1,6 @@
 <?php
 
-namespace FireBird;
+namespace Firebird;
 
 class Track {
   private $projectId;
